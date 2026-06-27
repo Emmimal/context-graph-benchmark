@@ -10,7 +10,7 @@ Vector RAG retrieves chunks that look similar to your query. It cannot retrieve 
 
 This project benchmarks three memory architectures on that exact problem and measures where the ceiling is for each one.
 
-Read the full write-up on Towards Data Science → **[Vector RAG Isn't Enough — I Built a Context Graph Layer for Multi-Agent Memory](https://towardsdatascience.com/author/emmimalp-alexander/)**
+Read the full write-up on Towards Data Science → **[Vector RAG Isn't Enough — I Built a Context Graph Layer for Multi-Agent Memory](https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/)**
 
 ---
 
